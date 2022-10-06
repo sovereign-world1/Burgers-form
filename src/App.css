@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 500px;
+  background-image: url('./img/background-images1.jpg');
+}
+
+.form-app {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 50px;
+}
+
+.image-decoration {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  bottom: 75px;
+  right: 50px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
